@@ -1,0 +1,14 @@
+.input-field{
+    border-radius:3px;
+    margin: 10px 0px;
+
+}
+.button-field{
+    background-color: rgb(0, 128, 0,0.5);
+    border-radius:3px;
+}
+.button1-field{
+    background-color: rgba(104, 146, 230, 0.5);
+    border-radius:3px;
+    margin: 10px 0px;
+}
